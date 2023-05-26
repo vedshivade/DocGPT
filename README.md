@@ -5,16 +5,16 @@ DocGPT is an interactive GUI application that allows users to upload PDF files a
 ## Screenshots
 The relational feature of this browser is still in progress. It does not work very well just yet. 
 <p align="center">
-  <b>Querying a drug given to treat sepsis:</b><br>
-  <img src="screens/rquery_drug_sepsis.png" width="500"><br>
+  <b>Example Queries:</b><br>
+  <img src="question1.png" width="500"><br>
 </p>
 <p align="center">
-  <b>Querying admission location for sepsis patients:</b><br>
-  <img src="screens/rquery_al_sepsis.png" width="500"><br>
+  <b></b><br>
+  <img src="question3.png" width="500"><br>
 </p>
 <p align="center">
-  <b>Querying the NDC for the drug Senna:</b><br>
-  <img src="screens/rquery_ndc_senna.png" width="500"><br>
+  <b></b><br>
+  <img src="question4.png" width="500"><br>
 </p>
 
 ## Getting Started
