@@ -19,6 +19,7 @@ Before running this script, please ensure you have the following python packages
 You can install these packages using pip:
 ```shell
 pip install pdfplumber pandas numpy openai PyQt5
+```
 
 ### Installation
 No specific installation is required for this application. Simply download and save the python file in your desired directory. Make sure you also have your OpenAI API Key to hand, as you'll need to configure this in the GUI.
@@ -27,6 +28,7 @@ No specific installation is required for this application. Simply download and s
 To start the application, run the python script from your terminal:
 ```shell
 python your_script_name.py
+```
 
 Once the GUI has started, you can:
 
