@@ -3,7 +3,6 @@
 DocGPT is an interactive GUI application that allows users to upload PDF files and ask GPT-3.5 questions about the content of those files. DocGPT will only pull information from a selected file and will report the pages in which it found that information.
 
 ## Screenshots
-The relational feature of this browser is still in progress. It does not work very well just yet. 
 <p align="center">
   <b>Example Queries:</b><br>
   <img src="question1.png" width="500"><br>
